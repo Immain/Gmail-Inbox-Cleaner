@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/23/da/b9/23dab92cbddac8b9ae00db6dd345644d.png" alt="Gmail Inbox Cleaner Logo" width="300" height="100">
+  <img src="https://i.pinimg.com/originals/23/da/b9/23dab92cbddac8b9ae00db6dd345644d.png" alt="Gmail Inbox Cleaner Logo" width="300" height="200">
 </div>
 
 # Gmail Inbox Cleaner
