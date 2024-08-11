@@ -12,7 +12,6 @@ This Python script allows you to manage your Gmail inbox by deleting emails from
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## Features
 
